@@ -1,1 +1,1 @@
-# KNN-Classification
+KNN Classification with Toy Dataset
